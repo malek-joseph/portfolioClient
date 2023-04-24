@@ -10,7 +10,7 @@ const SocialMedia = () => (
       <a target="_blank"href="https://www.linkedin.com/in/malek-joseph/"><BsLinkedin /></a>
     </div>
     <div>
-      <a target="_blank"href="https://www.instagram.com/malek_yousef22/?hl=en"><BsInstagram /></a>
+      <a target="_blank"href="https://www.instagram.com/x.malek.luca/?hl=en"><BsInstagram /></a>
     </div>
   </div>
 );
